@@ -2,7 +2,7 @@
 
 Script to upload files to an Asana Task.
 
-You can use an .env to put your creds or send it as an argument to the script.
+You can use an .env to put your credentials or send it as an argument to the script.
 
 Example
 ```
